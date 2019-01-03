@@ -1,0 +1,4 @@
+A venture capitalist want to figure out which type of the startup company in which they should invest.
+the startup which spend more on marketing its products or the one which do lot of research and development etc..
+we have a sample of dataset of 50 startups.
+Goodluck. 
